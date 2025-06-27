@@ -1,2 +1,2 @@
 # Python-calculator
-A calculator in Python
+A calculator in Python, maybe they are a few bugs in, but it's just doing what we told it to do, so...
